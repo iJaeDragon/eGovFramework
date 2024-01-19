@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-## 주요모듈
+## 주요모듈 (pom.xml)
 
 ### 전자정부프레임워크 표준 실행환경
 
@@ -25,6 +25,8 @@
 - log4j-api
 - log4j-slf4j-impl
 - log4jdbc-log4j2-jdbc4
+ - src/main/resources/log4j2.xml
+ - src/main/resources/log4jdbc.log4j2.properties
 
 ### DB Connector
 - HikariCP
