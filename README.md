@@ -53,5 +53,7 @@
 - /src/main/resources/egovframework/spring/context-transaction.xml
 - /src/main/resources/egovframework/spring/context-validator.xml
 
+## Pattern
+
 ## reference 
 HikariCP : https://hudi.blog/dbcp-and-hikaricp/
