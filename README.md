@@ -29,7 +29,7 @@
 ### DB Connector
 - HikariCP
   - commons-dbcp -> HikariCP
-  - ![image](https://github.com/iJaeDragon/eGovFramework/assets/66985977/26b71e28-0d52-4771-95ff-2795f207fae6)
+  ![image](https://github.com/iJaeDragon/eGovFramework/assets/66985977/26b71e28-0d52-4771-95ff-2795f207fae6)
 
 - mysql-connector-java
 
