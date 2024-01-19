@@ -25,8 +25,8 @@
 - log4j-api
 - log4j-slf4j-impl
 - log4jdbc-log4j2-jdbc4
- - src/main/resources/log4j2.xml
- - src/main/resources/log4jdbc.log4j2.properties
+  - src/main/resources/log4j2.xml
+  - src/main/resources/log4jdbc.log4j2.properties
 
 ### DB Connector
 - HikariCP
