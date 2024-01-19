@@ -141,8 +141,6 @@
 		<!-- Logging End -->
 
 		<!-- MySQL DB Connector Begin -->
-		<!-- https://hudi.blog/dbcp-and-hikaricp/ -->
-		<!-- commons-dbcp -> ikariConfig --> 
 		<dependency>	
 			<groupId>com.zaxxer</groupId>	
 			<artifactId>HikariCP</artifactId>	
