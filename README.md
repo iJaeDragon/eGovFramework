@@ -43,5 +43,15 @@
 - commons-fileupload
 - commons-io
 
+## Spring Context
+- /src/main/resources/egovframework/spring/context-aspect.xml
+- /src/main/resources/egovframework/spring/context-common.xml
+- /src/main/resources/egovframework/spring/context-datasource.xml
+- /src/main/resources/egovframework/spring/context-idgen.xml
+- /src/main/resources/egovframework/spring/context-properties.xml
+- /src/main/resources/egovframework/spring/context-sqlMap.xml
+- /src/main/resources/egovframework/spring/context-transaction.xml
+- /src/main/resources/egovframework/spring/context-validator.xml
+
 ## reference 
 HikariCP : https://hudi.blog/dbcp-and-hikaricp/
