@@ -1,11 +1,10 @@
-C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\sample\service\impl\SampleDAO.java
-C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\sample\web\EgovSampleController.java
-C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\sample\service\SampleVO.java
+C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\sample\controller\EgovSampleController.java
+C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\sample\service\EgovSampleServiceImpl.java
 C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\cmmn\web\EgovBindingInitializer.java
+C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\sample\domain\SampleDefaultVO.java
 C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\cmmn\EgovSampleOthersExcepHndlr.java
-C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\sample\service\SampleDefaultVO.java
-C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\sample\service\impl\SampleMapper.java
+C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\sample\domain\SampleVO.java
+C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\common\dao\SampleDAO.java
 C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\cmmn\web\EgovImgPaginationRenderer.java
 C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\sample\service\EgovSampleService.java
 C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\cmmn\EgovSampleExcepHndlr.java
-C:\Users\rhkgk\Documents\eGovFrameDev-3.8.0-64bit\dfPrj\src\main\java\egovframework\example\sample\service\impl\EgovSampleServiceImpl.java
