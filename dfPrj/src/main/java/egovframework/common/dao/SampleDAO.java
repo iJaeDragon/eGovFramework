@@ -17,7 +17,6 @@ package egovframework.common.dao;
 
 import java.util.List;
 
-import egovframework.example.sample.domain.SampleVO;
 import egovframework.rte.psl.dataaccess.EgovAbstractMapper;
 
 import org.springframework.stereotype.Repository;
