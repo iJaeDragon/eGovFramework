@@ -58,3 +58,4 @@
 
 ## reference 
 HikariCP : https://hudi.blog/dbcp-and-hikaricp/
+log4j2 : https://rimkongs.tistory.com/312
