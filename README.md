@@ -54,6 +54,7 @@
 - /src/main/resources/egovframework/spring/context-validator.xml
 
 ## Pattern
+![image](https://github.com/iJaeDragon/eGovFramework/assets/66985977/b8aab9e8-8f83-43c1-b4b2-9be3e7593d05)
 
 ## reference 
 HikariCP : https://hudi.blog/dbcp-and-hikaricp/
