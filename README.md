@@ -57,6 +57,7 @@
 ![image](https://github.com/iJaeDragon/eGovFramework/assets/66985977/b8aab9e8-8f83-43c1-b4b2-9be3e7593d05)
 
 ## reference 
-HikariCP : https://hudi.blog/dbcp-and-hikaricp/
-
-log4j2 : https://rimkongs.tistory.com/312
+- HikariCP
+  - https://hudi.blog/dbcp-and-hikaricp/
+- log4j2
+  - https://rimkongs.tistory.com/312
