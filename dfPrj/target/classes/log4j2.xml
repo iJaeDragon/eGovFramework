@@ -9,10 +9,10 @@
     
     <Loggers>
     
-        <Logger name="egovframework" level="DEBUG" additivity="false">
+        <Logger name="egovframework" level="ALL" additivity="false">
             <AppenderRef ref="console" />
         </Logger>
-        <Logger name="org.springframework" level="INFO" additivity="false">
+        <Logger name="org.springframework" level="ALL" additivity="false">
             <AppenderRef ref="console" />
         </Logger>
         
@@ -42,7 +42,7 @@
 		</logger>
 		<!-- SQL Logger End -->
         
-        <Root level="INFO">
+        <Root level="ALL">
             <AppenderRef ref="console" />
         </Root>
         

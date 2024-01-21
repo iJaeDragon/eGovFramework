@@ -75,7 +75,7 @@ public class EgovSampleServiceImpl extends EgovAbstractServiceImpl implements Eg
 		vo.setId(id);
 		LOGGER.debug(vo.toString());
 
-		sampleDAO.insertSample(vo);
+		sampleDAO.insert("sampleDAO.insertSample", vo);
 		return id;
 	}
 
@@ -87,7 +87,7 @@ public class EgovSampleServiceImpl extends EgovAbstractServiceImpl implements Eg
 	 */
 	@Override
 	public void updateSample(SampleVO vo) throws Exception {
-		sampleDAO.updateSample(vo);
+		sampleDAO.update("sampleDAO.updateSample", vo);
 	}
 
 	/**
@@ -98,7 +98,7 @@ public class EgovSampleServiceImpl extends EgovAbstractServiceImpl implements Eg
 	 */
 	@Override
 	public void deleteSample(SampleVO vo) throws Exception {
-		sampleDAO.deleteSample(vo);
+		sampleDAO.delete("sampleDAO.deleteSample", vo);
 	}
 
 	/**
@@ -109,7 +109,7 @@ public class EgovSampleServiceImpl extends EgovAbstractServiceImpl implements Eg
 	 */
 	@Override
 	public SampleVO selectSample(SampleVO vo) throws Exception {
-		SampleVO resultVO = sampleDAO.selectSample(vo);
+		SampleVO resultVO = (SampleVO) sampleDAO.selectOne("sampleDAO.selectSample", vo);
 		if (resultVO == null)
 			throw processException("info.nodata.msg");
 		return resultVO;
@@ -123,7 +123,7 @@ public class EgovSampleServiceImpl extends EgovAbstractServiceImpl implements Eg
 	 */
 	@Override
 	public List<?> selectSampleList(SampleDefaultVO searchVO) throws Exception {
-		return sampleDAO.selectSampleList(searchVO);
+		return sampleDAO.selectList("sampleDAO.selectSampleList", searchVO);
 	}
 
 	/**
@@ -133,8 +133,8 @@ public class EgovSampleServiceImpl extends EgovAbstractServiceImpl implements Eg
 	 * @exception
 	 */
 	@Override
-	public int selectSampleListTotCnt(SampleDefaultVO searchVO) {
-		return sampleDAO.selectSampleListTotCnt(searchVO);
+	public int selectSampleListTotCnt(SampleDefaultVO searchVO) throws Exception {
+		return sampleDAO.selectCount("sampleDAO.selectSampleListTotCnt", searchVO);
 	}
 
 }
