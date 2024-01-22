@@ -59,5 +59,6 @@
 ## reference 
 - HikariCP
   - https://hudi.blog/dbcp-and-hikaricp/
+  - https://codevang.tistory.com/264
 - log4j2
   - https://rimkongs.tistory.com/312
