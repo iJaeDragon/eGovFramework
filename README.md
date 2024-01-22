@@ -62,3 +62,5 @@
   - https://codevang.tistory.com/264
 - log4j2
   - https://rimkongs.tistory.com/312
+- eGovFramework
+  - https://bkjo94.tistory.com/entry/%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%83%98%ED%94%8C-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9Dcontext-aspectxml
